@@ -1,5 +1,3 @@
-start.sh
- 
 #!/bin/bash
  
 # Set non-interactive for timezone
